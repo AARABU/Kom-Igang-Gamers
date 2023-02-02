@@ -1,0 +1,34 @@
+h3
+{
+    text-align: center;
+    border-bottom: 0px;
+}
+h1
+{
+    text-align: center;
+}
+.red {color: ;}
+.a {color: red;}
+.b {color: violet;}
+.c{color: rgb(245, 39, 12);}
+
+h2
+{
+    text-align: center;
+    border-bottom: 0px;
+}
+
+.d
+{
+    text-align: right;
+    border-bottom: 0px;
+}
+
+.e
+{
+    text-align: right;
+    border-bottom: 0px;
+    color: crimson;
+}
+
+
